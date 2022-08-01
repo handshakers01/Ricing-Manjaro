@@ -7,7 +7,7 @@ local opt = vim.opt         		-- global/buffer/windows-scoped options
 local o = vim.o
 
 -- GUI font
-cmd [[set guifont=JetBrainsMono\ Nerd\ Font\ Mono:h10]]
+cmd [[set guifont=CaskaydiaCove\ Nerd\ Font:h10]]
 
 -- Neovide
 g.neovide_remember_window_size = true
