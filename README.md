@@ -1,6 +1,11 @@
 # Ricing-Manjaro
+## Screenshot
+<img src="https://raw.githubusercontent.com/revanfz/Ricing-Manjaro/main/Screenshot.png" alt="Results">
 
-Color Scheme : bash -c  "$(wget -qO- https://git.io/vQgMr)"
-
-Source :
-https://aptrinh.js.org/manjaro-rice.html
+## App used:
+* VSCodium
+* Polybar
+* Picom
+* Alacritty
+* Neovim
+* etc.
